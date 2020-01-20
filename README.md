@@ -1,4 +1,8 @@
-# EE599 HW1 Question 4 to print name and major for Bazel and Google Test
+# EE599 HW1 Question 4 
+
+## Print name and major 
+## Use Bazel and Google Test
+
 
 > Can be used in Visual Studio Code
 
