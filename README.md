@@ -13,7 +13,7 @@ git clone https://github.com/jingweixu3/USC_EE599_HW1.git
 
 ### Run main:
 
-You can run this using `blaze`:
+You can run this using `bazel`:
 
 ```bash
 bazel run src/main:main
@@ -21,7 +21,7 @@ bazel run src/main:main
 
 ### Run Tests:
 
-You can run unit tests using [`blaze`](installing-bazel):
+You can run unit tests using [`bazel`](installing-bazel):
 
 ```bash
 bazel test tests:tests
